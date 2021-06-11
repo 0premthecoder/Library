@@ -9,9 +9,9 @@ You May See This Project For Learn Something New
 ----
 **Step -2**: Add Java In your Path As You Know.
 ----
-**Step -3**: Open Your Terminal And Run `javac ./file_name.java`
+**Step -3**: Open Your Terminal And Run `javac ./Main.java`
 ----
-**Last Step**: Run This Command also `java ./file_name`
+**Last Step**: Run This Command also `java ./Main`
 ----
 
 ## My Experience On This Command Line App
